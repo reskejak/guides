@@ -40,10 +40,12 @@
 9. If you wish to further overlay a linear fit line, at the bottom of the page you can click “More Settings” > “Linear Fit” > “on”.
 
 ![7](https://raw.githubusercontent.com/reskejak/guides/master/R2_database_guide2/7.png)
+![7b](https://raw.githubusercontent.com/reskejak/guides/master/R2_database_guide2/7b.png)
 
 10. Once you have your settings in place, it is becomes easy to probe many different correlation combinations via the upper-right hand corner. Type in new genes of interest, click “Change Genes”, and select desired probes if needed.
 
 ![8](https://raw.githubusercontent.com/reskejak/guides/master/R2_database_guide2/8.png)
+![9](https://raw.githubusercontent.com/reskejak/guides/master/R2_database_guide2/9.png)
 
 The result of this analysis is a statistical correlation (or non-correlation) between two genes in a dataset. In this example, each dot represents an HCC patient’s expression for both genes (gene in direction of axis) of N=371 to create a statistical correlation. Our conclusion is that NCOA5 expression is inversely correlated with PDK4 expression, and NR4A1 is positively correlated with NFIL3, both with p<0.05, in this dataset of 371 HCC patients.
 
