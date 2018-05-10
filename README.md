@@ -5,7 +5,7 @@ Guides for various bioinformatics tools.
 See individual markdown files in master for step-by-step guides with images.
 
 #### R2_database_guide1.md
-Guide for Single-Gene Tissue Expression Analysis
+Guide for Single-Gene Tissue Expression Analysis in the R2: Genomics Analysis and Visualization Platform database.
 
 #### R2_database_guide2.md
-Guide for gene:gene Expression Correlation Analysis
+Guide for gene:gene Expression Correlation Analysis in the R2: Genomics Analysis and Visualization Platform database.
